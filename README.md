@@ -1,0 +1,2 @@
+# codewars
+tasks on JS
