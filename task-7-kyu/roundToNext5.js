@@ -3,6 +3,3 @@
 const roundToNext5 = (n) => Math.ceil(n / 5) * 5;
 
 let res = roundToNext5(-123);
-
-console.log(res);
-git;
